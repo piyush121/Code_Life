@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449935328 source:c:\users\piyus\documents\code_blocks\pff_vsws\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<unordered_map>
+

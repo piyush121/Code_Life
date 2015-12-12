@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449347120 source:c:\users\piyus\documents\code_blocks\counter\main.cpp
+	<iostream>
+	<vector>
+

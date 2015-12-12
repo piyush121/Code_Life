@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449111290 source:c:\users\piyus\documents\code_blocks\sets\main.cpp
+	<iostream>
+	<set>
+
