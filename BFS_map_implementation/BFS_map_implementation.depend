@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447464859 source:c:\users\dell\documents\code_blocks\bfs_map_implementation\main.cpp
+	<iostream>
+	<deque>
+	<map>
+
